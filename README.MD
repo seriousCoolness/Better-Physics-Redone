@@ -1,0 +1,5 @@
+BETTER PHYSICS REDONE
+
+This is a mod for Sonic Adventure's 2004 PC port that tweaks and alters SADX's physics to hopefully be more enjoyable, and have a higher skill ceiling. The original mod was made when I was still learning the ropes of C++ and SADX modding. I'm still learning the ropes arguably, but the mod was getting to the point where a rewrite was absolutely essential, so here we are. 
+
+In terms of specific gameplay tweaks, the slope physics have been changed so that rolling has far greater of an effect on your speed, and the mid-air controls have been altered slightly to allow for greater conservation of velocity. There are also many experimental features added that are disabled by default, such as removing loop automation, so that the player can gain speed going through them by using physics. Also, most aspects of the mod are configurable.
